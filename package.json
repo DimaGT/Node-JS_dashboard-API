@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "API for education project",
   "main": "index.js",
-  "tyoe": "module",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/DimaGT/Node-JS_dashboard-API/issues"
   },
-  "homepage": "https://github.com/DimaGT/Node-JS_dashboard-API#readme"
+  "homepage": "https://github.com/DimaGT/Node-JS_dashboard-API#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
