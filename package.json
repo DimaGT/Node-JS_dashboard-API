@@ -1,0 +1,23 @@
+{
+  "name": "dashboard-api",
+  "version": "1.0.0",
+  "description": "API for education project",
+  "main": "index.js",
+  "tyoe": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DimaGT/Node-JS_dashboard-API.git"
+  },
+  "keywords": [
+    "education"
+  ],
+  "author": "DimaGT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DimaGT/Node-JS_dashboard-API/issues"
+  },
+  "homepage": "https://github.com/DimaGT/Node-JS_dashboard-API#readme"
+}
